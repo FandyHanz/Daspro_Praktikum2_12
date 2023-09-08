@@ -3,6 +3,6 @@ public class MyFirstJavaGithub12 {
 
         System.out.print("Nama saya Fandy Wahyu Hanzura<");
     System.out.println();
-        
+        System.out.println();
     }
 }
