@@ -1,2 +1,2 @@
 # Daspro_Praktikum2_12
-repositori kedua
+hello github, ini adalah repository pertama saya.
